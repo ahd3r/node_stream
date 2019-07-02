@@ -1,0 +1,21 @@
+{
+  "name": "try_stream",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/mongoose": "^5.5.6",
+    "@types/node": "^12.0.8",
+    "@types/validator": "^10.11.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.6.0",
+    "nodemon": "^1.19.1",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.2",
+    "validator": "^11.0.0"
+  }
+}
