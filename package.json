@@ -1,5 +1,5 @@
 {
-  "name": "try_stream",
+  "name": "stream",
   "version": "1.0.0",
   "scripts": {
     "start": "nodemon"
